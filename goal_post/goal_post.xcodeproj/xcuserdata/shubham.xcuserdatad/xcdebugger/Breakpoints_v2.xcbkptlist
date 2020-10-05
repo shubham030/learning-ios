@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4D780A51-124C-48DE-89DB-AE4C27B76F4C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3E78B5F-BAEC-4BBB-955D-8DE594113AEF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "goal_post/views/GoalCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "GoalCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A3E78B5F-BAEC-4BBB-955D-8DE594113AEF - bfa705d77103a104"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "goal_post.GoalCell.goalTypeLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "goal_post"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham/Desktop/ios/learning-ios/goal_post/goal_post/views/GoalCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A3E78B5F-BAEC-4BBB-955D-8DE594113AEF - 56d5074755b98f90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "goal_post.GoalCell.goalTypeLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "goal_post"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham/Desktop/ios/learning-ios/goal_post/goal_post/views/GoalCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "A3E78B5F-BAEC-4BBB-955D-8DE594113AEF - 1f62f9700d9c2e61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "goal_post.GoalCell.goalTypeLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "goal_post"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham/Desktop/ios/learning-ios/goal_post/goal_post/views/GoalCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "A3E78B5F-BAEC-4BBB-955D-8DE594113AEF - 1fb5a99546859945"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "goal_post.GoalCell.goalTypeLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "goal_post"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham/Desktop/ios/learning-ios/goal_post/goal_post/views/GoalCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "A3E78B5F-BAEC-4BBB-955D-8DE594113AEF - 661adb3e36d16b6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "goal_post.GoalCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; goal_post.GoalCell"
+                  moduleName = "goal_post"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham/Desktop/ios/learning-ios/goal_post/goal_post/views/GoalCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "341">
+               </Location>
+               <Location
+                  uuid = "A3E78B5F-BAEC-4BBB-955D-8DE594113AEF - 457b3f0431478da8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "goal_post.GoalCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;goal_post.GoalCell&gt;"
+                  moduleName = "goal_post"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shubham/Desktop/ios/learning-ios/goal_post/goal_post/views/GoalCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "258">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
